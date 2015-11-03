@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2010, Oracle.
+ * Copyright (c) 2010, Oracle.  STOLEN BY ALEX.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
